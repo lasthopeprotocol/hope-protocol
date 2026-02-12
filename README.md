@@ -6,7 +6,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Jupiter_V6-integrated-F7B93E?style=flat-square&logo=data:image/svg+xml;base64,PHN2Zy8+" />
   <img src="https://img.shields.io/badge/pump.fun-compatible-FF6B6B?style=flat-square" />
   <img src="https://img.shields.io/badge/Raydium-compatible-2B6CB0?style=flat-square" />
   <img src="https://img.shields.io/badge/SPL_Token-burn-FF4444?style=flat-square" />
