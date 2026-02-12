@@ -408,7 +408,7 @@ hope/
 ### Installation
 
 ```bash
-git clone https://github.com/lasthopelive/hope-protocol.git
+git clone https://github.com/lasthopeprotocol/hope-protocol.git
 cd hope-protocol/bot
 npm install
 ```

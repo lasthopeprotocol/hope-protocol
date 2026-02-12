@@ -5,7 +5,7 @@ We welcome contributions! Here's how to get involved.
 ## Development Setup
 
 ```bash
-git clone https://github.com/lasthopelive/hope-protocol.git
+git clone https://github.com/lasthopeprotocol/hope-protocol.git
 cd hope-protocol/bot
 npm install
 cp .env.example .env
