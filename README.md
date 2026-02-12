@@ -39,7 +39,9 @@
 
 <br>
 
-## 💀 What is $HOPE?
+## 💀 What is $HOPE? 
+
+https://lasthope.live/
 
 $HOPE is a **redistribution protocol** — not just a token. It autonomously identifies the holder experiencing the largest unrealized loss and compensates them using accumulated creator fees.
 
