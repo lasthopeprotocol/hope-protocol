@@ -191,14 +191,14 @@ After receiving a reward, a wallet enters a **cooldown period** and is excluded 
 ```
 ┌─ Cycle 1: Wallet A wins (biggest loss) ──────────────────┐
 │  → Receives 50% of purchased tokens                      │
-│  → Enters 2-cycle cooldown                                │
+│  → Enters 2-cycle cooldown                               │
 ├─ Cycle 2: Wallet A SKIPPED (cooldown) ───────────────────┤
-│  → Wallet B wins instead                                  │
+│  → Wallet B wins instead                                 │
 ├─ Cycle 3: Wallet A SKIPPED (cooldown) ───────────────────┤
-│  → Wallet C wins instead                                  │
+│  → Wallet C wins instead                                 │
 ├─ Cycle 4: Wallet A eligible again ───────────────────────┤
-│  → Competes normally with updated PnL                     │
-└───────────────────────────────────────────────────────────┘
+│  → Competes normally with updated PnL                    │
+└──────────────────────────────────────────────────────────┘
 ```
 
 <br>
@@ -289,7 +289,7 @@ Result:
 
 ```
                     ┌─────────────────────────────────────┐
-                    │        TRANSACTION ANALYSIS          │
+                    │        TRANSACTION ANALYSIS         │
                     │                                     │
                     │  For each holder wallet:            │
                     │                                     │
@@ -300,10 +300,10 @@ Result:
                     │  │  │  → DEX SWAP ✅ counted    │   │
                     │  │  │                           │   │
                     │  │  ├─ YES + solSpent ≈ 0       │   │
-                    │  │  │  → TRANSFER ❌ ignored    │   │
+                    │  │  │  → TRANSFER ❌ ignored    │   | 
                     │  │  │                           │   │
                     │  │  └─ NO                       │   │
-                    │  │     → SELL/other ❌ ignored   │   │
+                    │  │     → SELL/other ❌ ignored  │  │
                     │  └──────────────────────────────┘   │
                     └─────────────────────────────────────┘
 ```
