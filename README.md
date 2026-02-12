@@ -64,8 +64,8 @@ Every cycle, the protocol:
 
 ```
                     ┌─────────────────────────────┐
-                    │       TRADING ACTIVITY       │
-                    │   Users buy/sell on DEX      │
+                    │       TRADING ACTIVITY      │
+                    │   Users buy/sell on DEX     │
                     └──────────────┬──────────────┘
                                    │
                                    ▼
