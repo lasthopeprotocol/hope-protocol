@@ -71,7 +71,7 @@ Every cycle, the protocol:
                                    ▼
                     ┌─────────────────────────────┐
                     │      CREATOR FEE POOL       │
-                    │   Fees accumulate in SOL     │
+                    │   Fees accumulate in SOL    │
                     └──────────────┬──────────────┘
                                    │
                          ╔═════════╧═════════╗
@@ -83,11 +83,11 @@ Every cycle, the protocol:
                     │              │              │
                     ▼              ▼              ▼
              ┌───────────┐ ┌───────────┐ ┌───────────┐
-             │  SCAN ALL  │ │  BUY BACK │ │ DISTRIBUTE│
-             │  HOLDERS   │ │  $HOPE    │ │  + BURN   │
-             │            │ │  via      │ │           │
-             │  Find top  │ │  Jupiter  │ │  50% send │
-             │  loser     │ │  V6 API   │ │  50% burn │
+             │  SCAN ALL │ │  BUY BACK │ │ DISTRIBUTE│
+             │  HOLDERS  │ │  $HOPE    │ │  + BURN   │
+             │           │ │  via      │ │           │
+             │  Find top │ │  Jupiter  │ │  50% send │
+             │  loser    │ │  V6 API   │ │  50% burn │
              └───────────┘ └───────────┘ └───────────┘
 ```
 
